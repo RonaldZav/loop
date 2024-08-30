@@ -1,0 +1,26 @@
+{
+  "name": "@ronaldzav/loop",
+  "version": "1.0.0",
+  "description": "loop function to javascript and typescript",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonaldZav/loop.git"
+  },
+  "keywords": [
+    "loop"
+  ],
+  "author": "ronaldzav",
+  "license": "MIT",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/RonaldZav/loop/issues"
+  },
+  "homepage": "https://github.com/RonaldZav/loop#readme"
+}
